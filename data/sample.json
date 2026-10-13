@@ -1,0 +1,11 @@
+{
+  "project": "research-brief-agent",
+  "resource": "briefs",
+  "samples": [
+    {
+      "id": "b1",
+      "topic": "Edge AI chips 2026",
+      "status": "draft"
+    }
+  ]
+}
